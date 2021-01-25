@@ -1,4 +1,4 @@
-# ITIL Tickets to Products
+# From Tickets to Products in the age of Agile
 
 ## Gantt is the Enemy of Great
 
