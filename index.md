@@ -26,7 +26,7 @@ Project teams are working in sprint cycles typically 2 weeks in duration. There'
 
 The end result is, quite frankly, a sh&t experience for the user/s. I call this 'the drop off', the jarring experience that is the result of 'over the fence IT' ironically to ensure the organisation remains Agile.
 
-Enter the world if Incidents, Services Requests, Questions and Problems which seem to hark back to a time before Agile before DevOps where risk and change management reigned supreme, where solutions were static and organisational requirements rarely varied (and BTW projects regularly failed to deliver on any metric you'd care to mention).
+Enter the world of Incidents, Services Requests, Questions and Problems which seem to hark back to a time before Agile before DevOps where risk and change management reigned supreme, where solutions were static and organisational requirements rarely varied (and BTW projects regularly failed to deliver on any metric you'd care to mention).
 
 There was a time, before hyperscaling before digital disruption, where the ITIL methodology helped bring some order to the chaos without pumping the breaks on organisational agility, but I'm calling it, 'it's over'. It's over in terms of ITIL and support operations being a stand alone function that can somehow offer intrinsic value in a fast moving environment powered by Agile methodologies, Source Control, CI/CD pipelines, Containers and Kubernetes.
 
