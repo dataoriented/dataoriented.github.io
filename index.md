@@ -38,7 +38,7 @@ The solution to avoiding the 'drop off' without throwing away yesterday's jam is
 
 ## From Project to Product
 
-Hang on a cotton pick'n second, a project has a defined lifetime it's not going to hang around forever! True so we need to challenge the idea of projects and level up to product thinking as well.
+Hang on a second, a project has a defined lifetime it's not going to hang around forever! True so we need to challenge the idea of projects and level up to product thinking as well.
 
 A project is an activity, governed by a nominated practice or methodology, of a product team. It's how product teams get things done. This is radical thinking I know but when you change your perspective from project to product then the idea of having support capability built into the product team's structure starts to make sense. It also creates an environment where the 3 ways of DevOps, as discussed in the DevOps Handbook (Kim, Humble, Debois and Willis (2016) The DevOps Handbook How to create world-class agility, reliability, & security in Technology Organisations) Flow, Feedback and Continual Learning, with a particular focus on Feedback can thrive. After all the product team will be getting 100% of the Incident, Service Request, Question and Problem data feed directly to them in real time, how's that for a fast flow feedback loop!
 
