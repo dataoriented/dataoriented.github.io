@@ -2,7 +2,7 @@
 
 ## Gantt is the Enemy of Great
 
-More recently I've been working in organisations that are making a 'lung for the future'. They want, and for good reason, to be product oriented, to move quickly in response to market changes. Out with you foul project thinking, be gone the brandisher of the gantt chart of doom, we are Agile!
+More recently I've been working in organisations that are making a 'lunge for the future'. They want, and for good reason, to be product oriented, to move quickly in response to market changes. Out with you foul project thinking, be gone the brandisher of the gantt chart of doom, we are Agile!
 
 ## Times they are a change'n
 
